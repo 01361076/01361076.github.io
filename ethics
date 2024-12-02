@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethics in Technology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ethics.html">Ethics</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Ethical Considerations in IT</h1>
+            <p>In the tech industry, ethical considerations are critical to the responsible development and use of technology. Below are some guidelines and concerns for different areas of technology development.</p>
+            
+            <h2>Guidelines for Developers</h2>
+            <ul>
+                <li>Ensure that the code you write is transparent, maintainable, and does not cause harm.</li>
+                <li>Follow best practices to avoid bias in algorithms and data systems.</li>
+                <li>Respect user privacy and ensure data protection in the design of your systems.</li>
+            </ul>
+
+            <h2>Ethical Considerations for Data Scientists</h2>
+            <ul>
+                <li>Ensure that data collection practices are ethical and transparent.</li>
+                <li>Be aware of and mitigate algorithmic biases in predictive models.</li>
+                <li>Handle sensitive information with care, ensuring that data is anonymized and secure.</li>
+            </ul>
+
+            <h2>References</h2>
+            <p>Some important guidelines and ethical frameworks for IT professionals include:</p>
+            <ul>
+                <li>Association for Computing Machinery (ACM) Code of Ethics</li>
+                <li>IEEE Code of Ethics</li>
+                <li>General Data Protection Regulation (GDPR) guidelines for data protection</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
